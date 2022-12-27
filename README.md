@@ -15,7 +15,7 @@ O Projeto foi desenvolvido com as Tecnologia e voltadas nas seguintes Tarefas:
 
 - [x] Criação do HTML
 - [x] Criação do CSS
-- [x] Criação do SASS
+
 
 
  🧑‍💻 Technologies e Tools I use:
@@ -37,7 +37,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
      <td align="center">
       <a href="#">
-        <img src="./foto.jpg/" width="200px" alt="foto wanderson"/><br>
+        <img src="./foto.jpg/" width="100px" alt="foto wanderson"/><br>
         <sub>
           <b>wanderson de farias</b>
         </sub>
